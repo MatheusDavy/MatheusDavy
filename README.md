@@ -2,6 +2,7 @@
 
 - 🤔 Estou estudando front-end
 - 😄 Iniciante em programação
+- 🖥️📱 UI/UX Designer
 
  <div>
   <a href="https://github.com/MatheusDavy">
