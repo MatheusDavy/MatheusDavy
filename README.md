@@ -1,8 +1,7 @@
 ### Bem Vindo ao meu perfil 🤙
 
-- 🤔 Estou estudando front-end
-- 😄 Iniciante em programação
-- 🖥️📱 UI/UX Designer
+- 🤔 Front-end
+- 🖥 UI/UX Designer
 
  <div>
   <a href="https://github.com/MatheusDavy">
