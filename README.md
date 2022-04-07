@@ -1,7 +1,9 @@
-### Bem Vindo ao meu perfil 🤙
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=You´re+Welcome!)](https://git.io/typing-svg)
 
-- 🤔 Front-end
-- 🖥 UI/UX Designer
+My name is Matheus Davy and I'm a Brazilian **front-end developer**. I'm here on GitHub to:
+- Share my personal projects;
+- Learn more about front-end technologies;
+
 
  <div>
   <a href="https://github.com/MatheusDavy">
