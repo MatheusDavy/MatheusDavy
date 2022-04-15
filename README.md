@@ -2,7 +2,7 @@
 
 My name is Matheus Davy and I'm a Brazilian **front-end developer**. I'm here on GitHub to:
 - Share my personal projects;
-- Learn more about front-end technologies;
+- Learn more about **Front-End** technologies;
 
 
  <div>
