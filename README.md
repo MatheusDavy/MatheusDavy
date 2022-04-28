@@ -22,7 +22,9 @@ My name is Matheus Davy and I'm a Brazilian **Fullstack Developer**.
 </div> 
 <br>
 <br>
-<div> 
+<div display:"flex"> 
    <a href="https://www.instagram.com/matheus.davy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a> 
+ <a href="https://www.linkedin.com/in/matheus-davy-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
 </div>
