@@ -8,6 +8,7 @@ My name is Matheus Davy and I'm a Brazilian **Fullstack Developer**.
  <div>
   <a href="https://github.com/MatheusDavy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusDavy&show_icons=true&theme=flag_india&include_all_commits=true&count_private=true"/>
+   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDavy&layout=compact&langs_count=7&theme=white"/>
 </div>
 
   </div>
