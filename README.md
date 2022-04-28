@@ -21,8 +21,7 @@ My name is Matheus Davy and I'm a Brazilian **Fullstack Developer**.
  <img align="center" alt="Davy-Bulma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
 </div> 
 <br>
-
-
+<br>
 <div> 
    <a href="https://www.instagram.com/matheus.davy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  </a> 
