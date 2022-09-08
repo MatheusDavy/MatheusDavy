@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=You´re+Welcome!)](https://git.io/typing-svg)
 
 
-<h3>My name is Matheus Davy and I'm a Brazilian <strong>Fullstack Developer<strong></h3>
+<h3>My name is Matheus Davy and I'm a Brazilian <strong>Front-End Developer<strong></h3>
  <ul>
    <li>All my projects are available in : <a href="https://matheusdavy.github.io/Portifolio/">Portifólio</a></li>
    <li>Learn more about Javascript, Typescript, React and NodeJs.</li>
