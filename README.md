@@ -3,7 +3,7 @@
 
 <h3>My name is Matheus Davy and I'm a <strong>Front-End Developer<strong></h3>
  <ul>
-   <li>All my projects are available in : <a href="https://matheusdavy.github.io/Portifolio/">Portifólio</a></li>
+<!--    <li>All my projects are available in : <a href="https://matheusdavy.github.io/Portifolio/">Portifólio</a></li> -->
    <li>Learn more about Javascript, Typescript, React and NodeJs.</li>
  </ul>
  <div>
