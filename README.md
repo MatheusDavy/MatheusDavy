@@ -23,7 +23,7 @@
         <img align="center" alt="Davy-REACT" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     </div>  
     <br>
-    <h3>Library</h3>
+    <h3>Frameworks</h3>
      <div style="display: inline_block">
          <img align="center" alt="Davy-Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
          <img align="center" alt="Davy-Bulma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
