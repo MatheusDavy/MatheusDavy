@@ -12,43 +12,19 @@
 #### Tecnology:
 
 <div>
-
   <img src="https://skillicons.dev/icons?i=html"/>
-
-
   <img src="https://skillicons.dev/icons?i=css"/>
-
-
   <img src="https://skillicons.dev/icons?i=sass"/>
-
-
   <img src="https://skillicons.dev/icons?i=js"/>
-
-
   <img src="https://skillicons.dev/icons?i=ts"/>
-
-
   <img src="https://skillicons.dev/icons?i=react"/>
-
-
   <img src="https://skillicons.dev/icons?i=next"/>
-
-<br />
-<a href="https://npmjs.com">
+  <br />
   <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
-</a>
-<a href="https://nodejs.org">
   <img src="https://skillicons.dev/icons?i=nodejs"/>
-</a>
-<a href="https://www.postgresql.org">
   <img src="https://skillicons.dev/icons?i=mysql"/>
-</a>
-<a href="https://www.postgresql.org">
   <img src="https://skillicons.dev/icons?i=mongodb"/>
-</a>
-  <a href="https://www.postgresql.org">
   <img src="https://skillicons.dev/icons?i=docker"/>
-</a>
 </div>
 
 ##
