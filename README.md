@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=You´re+Welcome!)](https://git.io/typing-svg)
 
 
@@ -15,22 +17,35 @@
 
 <div >
     <h3>Technologies</h3>
-    <div style="display: inline_block">
-        <img align="center" alt="HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-        <img align="center" alt="CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-        <img align="center" alt="Javascript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-        <img align="center" alt="Typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-        <img align="center" alt="Jquery" height="30" width="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />  
-        <img align="center" alt="ReactJS" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    </div>  
-    <br>
-    <h3>Frameworks</h3>
-     <div style="display: inline_block">
-         <img align="center" alt="Davy-Bootstrap" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-         <img align="center" alt="Davy-Bulma" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
-         <img align="center" alt="Davy-Sass" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-     </div>
-     <br>
+    <div>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+  <img src="https://skillicons.dev/icons?i=html"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+  <img src="https://skillicons.dev/icons?i=css"/>
+</a>
+<a href="https://sass-lang.com">
+  <img src="https://skillicons.dev/icons?i=sass"/>
+</a>
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+  <img src="https://skillicons.dev/icons?i=js"/>
+</a>
+<a href="https://www.typescriptlang.org/pt/">
+  <img src="https://skillicons.dev/icons?i=ts"/>
+</a>
+<a href="https://pt-br.react.dev">
+  <img src="https://skillicons.dev/icons?i=react"/>
+</a>
+<a href="https://npmjs.com">
+  <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
+</a>
+<a href="https://nodejs.org">
+  <img src="https://skillicons.dev/icons?i=nodejs"/>
+</a>
+<a href="https://www.postgresql.org">
+  <img src="https://skillicons.dev/icons?i=postgres"/>
+</a>
+</div>
      <h3>Others</h3>
      <div style="display: inline_block">
          <img align="center" alt="Davy-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
