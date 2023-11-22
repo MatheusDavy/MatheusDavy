@@ -20,7 +20,7 @@
   <img src="https://skillicons.dev/icons?i=react"/>
   <img src="https://skillicons.dev/icons?i=next"/>
   <br />
-  <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
+  <img src="https://i.postimg.cc/zBfCqdPJ/npm.png"/>
   <img src="https://skillicons.dev/icons?i=nodejs"/>
   <img src="https://skillicons.dev/icons?i=mysql"/>
   <img src="https://skillicons.dev/icons?i=mongodb"/>
@@ -32,24 +32,12 @@
 #### Tools:
 
 <div>
-<a href="https://code.visualstudio.com" >
   <img src="https://skillicons.dev/icons?i=vscode"/>
-</a>
-<a href="https://insomnia.rest">
-  <img src="https://i.postimg.cc/MHch4m7T/insomnia.png" width="48" height="48"/>
-</a>
-<a href="https://www.postman.com">
-  <img src="https://i.postimg.cc/QNyBTNVk/postman.png" width="48" height="48"/>
-</a>
-<a href="https://git-scm.com" >
+  <img src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>
+  <img src="https://i.postimg.cc/QNyBTNVk/postman.png"/>
   <img src="https://skillicons.dev/icons?i=git"/>
-</a>
-<a href="https://www.figma.com" >
   <img src="https://skillicons.dev/icons?i=figma"/>
-</a>
-<a href="https://www.adobe.com/br/products/photoshop.html" >
   <img src="https://skillicons.dev/icons?i=ps"/>
-</a>
 </div>
 
 ##
