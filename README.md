@@ -12,12 +12,12 @@
 #### Tecnology:
 
 <div>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
+<div>
   <img src="https://skillicons.dev/icons?i=html"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
+</div>
+<div>
   <img src="https://skillicons.dev/icons?i=css"/>
-</a>
+</div>
 <a href="https://sass-lang.com">
   <img src="https://skillicons.dev/icons?i=sass"/>
 </a>
@@ -33,6 +33,7 @@
 <a href="https://pt-br.react.dev">
   <img src="https://skillicons.dev/icons?i=next"/>
 </a>
+<br />
 <a href="https://npmjs.com">
   <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
 </a>
@@ -44,6 +45,9 @@
 </a>
 <a href="https://www.postgresql.org">
   <img src="https://skillicons.dev/icons?i=mongodb"/>
+</a>
+  <a href="https://www.postgresql.org">
+  <img src="https://skillicons.dev/icons?i=docker"/>
 </a>
 </div>
 
