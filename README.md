@@ -12,27 +12,27 @@
 #### Tecnology:
 
 <div>
-<div>
+
   <img src="https://skillicons.dev/icons?i=html"/>
-</div>
-<div>
+
+
   <img src="https://skillicons.dev/icons?i=css"/>
-</div>
-<a href="https://sass-lang.com">
+
+
   <img src="https://skillicons.dev/icons?i=sass"/>
-</a>
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
+
+
   <img src="https://skillicons.dev/icons?i=js"/>
-</a>
-<a href="https://www.typescriptlang.org/pt/">
+
+
   <img src="https://skillicons.dev/icons?i=ts"/>
-</a>
-<a href="https://pt-br.react.dev">
+
+
   <img src="https://skillicons.dev/icons?i=react"/>
-</a>
-<a href="https://pt-br.react.dev">
+
+
   <img src="https://skillicons.dev/icons?i=next"/>
-</a>
+
 <br />
 <a href="https://npmjs.com">
   <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
