@@ -12,19 +12,19 @@
 #### Tecnology:
 
 <div>
-  <img src="https://skillicons.dev/icons?i=html" width='40' height='40'/>
-  <img src="https://skillicons.dev/icons?i=css" width='40' height='40'/>
-  <img src="https://skillicons.dev/icons?i=sass" width='40' height='40'/>
-  <img src="https://skillicons.dev/icons?i=js" width='40' height='40'/>
-  <img src="https://skillicons.dev/icons?i=ts" width='40' height='40'/>
-  <img src="https://skillicons.dev/icons?i=react" width='40' height='40'/>
-  <img src="https://skillicons.dev/icons?i=next" width='40' height='40'/>
+  <img src="https://skillicons.dev/icons?i=html" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=sass" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=js" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=next" width="48" height="48"/>
   <br />
-  <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width='40' height='40'/>
-  <img src="https://skillicons.dev/icons?i=nodejs" width='40' height='40'/>
-  <img src="https://skillicons.dev/icons?i=mysql" width='40' height='40'/>
-  <img src="https://skillicons.dev/icons?i=mongodb" width='40' height='40'/>
-  <img src="https://skillicons.dev/icons?i=docker" width='40' height='40'/>
+  <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
 </div>
 
 ##
@@ -32,12 +32,12 @@
 #### Tools:
 
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode" width='40' height='40'/>
-  <img src="https://i.postimg.cc/MHch4m7T/insomnia.png" width='40' height='40'/>
-  <img src="https://i.postimg.cc/QNyBTNVk/postman.png" width='40' height='40'/>
-  <img src="https://skillicons.dev/icons?i=git" width='40' height='40'/>
-  <img src="https://skillicons.dev/icons?i=figma" width='40' height='40'/>
-  <img src="https://skillicons.dev/icons?i=ps" width='40' height='40'/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
+  <img src="https://i.postimg.cc/MHch4m7T/insomnia.png" width="48" height="48"/>
+  <img src="https://i.postimg.cc/QNyBTNVk/postman.png" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=ps" width="48" height="48"/>
 </div>
 
 ##
