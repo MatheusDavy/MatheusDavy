@@ -1,23 +1,17 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=You´re+Welcome!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=You´re+Welcome!)](https://git.io/typing-svg)
 
+### I am Matheus Davy. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
 
-<h3>My name is Matheus Davy and I'm a <strong>Front-End Developer<strong></h3>
- <ul>
-<!--    <li>All my projects are available in : <a href="https://matheusdavy.github.io/Portifolio/">Portifólio</a></li> -->
-  <li>Learn more about Javascript, Typescript, React, NodeJs and mainly <b>Greensock</b> and <b>ThreeJs</b>.</li>
- </ul>
- <div>
-  <br>
-  <a href="https://github.com/MatheusDavy">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=MatheusDavy&show_icons=true&theme=flag_india&include_all_commits=true&count_private=true"/>
-   <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDavy&layout=compact&langs_count=7&theme=white"/>
-  </div>
+- 🔰 Botucatu-SP, Brazil
+- 🏦 I currently work at Leadster as a Front-End developer
 
-<div >
-    <h3>Technologies</h3>
-    <div>
+##
+
+#### Tecnology:
+
+<div>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
   <img src="https://skillicons.dev/icons?i=html"/>
 </a>
@@ -36,6 +30,9 @@
 <a href="https://pt-br.react.dev">
   <img src="https://skillicons.dev/icons?i=react"/>
 </a>
+<a href="https://pt-br.react.dev">
+  <img src="https://skillicons.dev/icons?i=next"/>
+</a>
 <a href="https://npmjs.com">
   <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
 </a>
@@ -43,19 +40,55 @@
   <img src="https://skillicons.dev/icons?i=nodejs"/>
 </a>
 <a href="https://www.postgresql.org">
-  <img src="https://skillicons.dev/icons?i=postgres"/>
+  <img src="https://skillicons.dev/icons?i=mysql"/>
+</a>
+<a href="https://www.postgresql.org">
+  <img src="https://skillicons.dev/icons?i=mongodb"/>
 </a>
 </div>
-     <h3>Others</h3>
-     <div style="display: inline_block">
-         <img align="center" alt="Davy-Git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-     </div>
- </div>  
-<br>
-<br>
-  
-<div display:"flex"> 
+
+##
+
+#### Tools:
+
+<div>
+<a href="https://code.visualstudio.com" >
+  <img src="https://skillicons.dev/icons?i=vscode"/>
+</a>
+<a href="https://insomnia.rest">
+  <img src="https://i.postimg.cc/MHch4m7T/insomnia.png" width="48" height="48"/>
+</a>
+<a href="https://www.postman.com">
+  <img src="https://i.postimg.cc/QNyBTNVk/postman.png" width="48" height="48"/>
+</a>
+<a href="https://git-scm.com" >
+  <img src="https://skillicons.dev/icons?i=git"/>
+</a>
+<a href="https://www.figma.com" >
+  <img src="https://skillicons.dev/icons?i=figma"/>
+</a>
+<a href="https://www.adobe.com/br/products/photoshop.html" >
+  <img src="https://skillicons.dev/icons?i=ps"/>
+</a>
+</div>
+
+##
+
+#### Contact:
+
+<div display="flex"> 
    <a href="https://www.instagram.com/matheus.davy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/matheus-davys/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
+</div>
+
+##
+
+#### Status:
+
+<div>
+<a href="https://github.com/israelltulio">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDavy&layout=compact&langs_count=7&theme=radical"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/?username=MatheusDavy&show_icons=true&include_all_commits=true&theme=radical"/>
+<img loading="lazy" height="153em" src="http://github-readme-streak-stats.herokuapp.com/?user=MatheusDavy&amp;theme=radical">
+</a>
 </div>
