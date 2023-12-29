@@ -21,12 +21,13 @@
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=sass" width="48" height="48"/>
   <br />
-  <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=express" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
-   <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48"/>
+  <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
 </div>
 
 ##
