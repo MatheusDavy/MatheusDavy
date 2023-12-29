@@ -25,6 +25,7 @@
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
+   <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48"/>
 </div>
 
 ##
