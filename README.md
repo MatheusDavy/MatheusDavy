@@ -19,6 +19,7 @@
   <img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=next" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
   <br />
   <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
