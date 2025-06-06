@@ -59,7 +59,7 @@
   <img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=github-actions" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48"/>
 </p>
 
 
