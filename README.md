@@ -48,7 +48,7 @@
   <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=firestore" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=redis" width="48" height="48"/>
 </p>
 
