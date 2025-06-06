@@ -6,7 +6,7 @@
 
 - 🔰 Botucatu-SP, Brazil
 - 🏦 I currently work at Leadster as a Front-End developer
-- 👨‍💻 <a href='https://www.davydev.com' target="_blank">My portfolio</a>
+- 👨‍💻 <a href='https://davysdev.framer.website/' target="_blank">My portfolio</a>
 
 ##
 
