@@ -1,17 +1,24 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=You´re+Welcome!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Bem+Vindo(a)!)](https://git.io/typing-svg)
 
-### I am Matheus Davy. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
-
-- 🔰 Botucatu-SP, Brazil
-- 🏦 I currently work at Leadster as a Front-End developer
-- 👨‍💻 <a href='https://davysdev.framer.website/' target="_blank">My portfolio</a>
+### Olá! 👋 Eu sou Matheus Davy. <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="200px" max-width="200px" width="200px" align="right">
+- 💼 Desenvolvedor Full-Stack Pleno | React | React Native | Node.js
+- 🔰 Botucatu-SP, Brasil
+- 🏦 Atualmente trabalho na Leadster como Desenveolvedor Frontend Pleno
+- 👨‍💻 <a href='https://davysdev.framer.website/' target="_blank">Meu portifólio</a>
 
 ##
 
-#### Tecnology:
+## Contato:
 
+<div display="flex"> 
+   <a href="mailto:matheusdavy14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/matheus-davys/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+
+## Tech Stacks:
+#### Frontend
 <div>
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=next" width="48" height="48"/>
@@ -21,7 +28,10 @@
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=sass" width="48" height="48"/>
-  <br />
+</div>
+<br/>
+#### Backend
+<div>
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=express" width="48" height="48"/>
@@ -29,12 +39,28 @@
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
   <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=swagger" width="48" height="48"/>
 </div>
-
+<br/>
+#### Databases
+<div>
+  <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=firestore" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=redis" width="48" height="48"/>
+</div>
+<br/>
+#### Infraestrutura e DevOps
+<div>
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=github-actions" width="48" height="48"/>
+</div>
 ##
-
-#### Tools:
-
+## Tools:
 <div>
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
   <img src="https://i.postimg.cc/MHch4m7T/insomnia.png" width="48" height="48"/>
@@ -46,12 +72,6 @@
 
 ##
 
-#### Contact:
-
-<div display="flex"> 
-   <a href="https://www.instagram.com/matheus.davy/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/matheus-davys/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
 
 ##
 
