@@ -17,7 +17,7 @@
    <a href="https://www.linkedin.com/in/matheus-davys/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-### 💻 Tech Stacks:
+## 💻 Tech Stacks:
 
 #### Frontend
 <p>
@@ -61,7 +61,6 @@
   <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48"/>
 </p>
-
 
 ## Tools:
 <p>
