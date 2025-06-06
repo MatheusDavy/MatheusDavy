@@ -17,9 +17,10 @@
    <a href="https://www.linkedin.com/in/matheus-davys/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## Tech Stacks:
+### 💻 Tech Stacks:
+
 #### Frontend
-<div>
+<p>
   <img src="https://skillicons.dev/icons?i=react" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=next" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=ts" width="48" height="48"/>
@@ -28,10 +29,10 @@
   <img src="https://skillicons.dev/icons?i=css" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=sass" width="48" height="48"/>
-</div>
-<br/>
+</p>
+
 #### Backend
-<div>
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=express" width="48" height="48"/>
@@ -40,35 +41,37 @@
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
   <img src="https://i.postimg.cc/zBfCqdPJ/npm.png" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=swagger" width="48" height="48"/>
-</div>
-<br/>
+</p>
+
 #### Databases
-<div>
+<p>
   <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=firestore" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=redis" width="48" height="48"/>
-</div>
-<br/>
+</p>
+
 #### Infraestrutura e DevOps
-<div>
+
+<p>
   <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=aws" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=nginx" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=github-actions" width="48" height="48"/>
-</div>
-##
+</p>
+
+
 ## Tools:
-<div>
+<p>
   <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48"/>
   <img src="https://i.postimg.cc/MHch4m7T/insomnia.png" width="48" height="48"/>
   <img src="https://i.postimg.cc/QNyBTNVk/postman.png" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=git" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=figma" width="48" height="48"/>
   <img src="https://skillicons.dev/icons?i=ps" width="48" height="48"/>
-</div>
+</p>
 
 ##
 
